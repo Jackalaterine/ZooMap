@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		814F6CC9217294E200DC531D /* BigCat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814F6CC8217294E200DC531D /* BigCat.swift */; };
+		814F6CCB2172984800DC531D /* ZooViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814F6CCA2172984800DC531D /* ZooViews.swift */; };
 		81E2DE6221658D01003959B8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E2DE6121658D01003959B8 /* AppDelegate.swift */; };
 		81E2DE6421658D01003959B8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E2DE6321658D01003959B8 /* ViewController.swift */; };
 		81E2DE6721658D01003959B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81E2DE6521658D01003959B8 /* Main.storyboard */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		814F6CC8217294E200DC531D /* BigCat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BigCat.swift; sourceTree = "<group>"; };
+		814F6CCA2172984800DC531D /* ZooViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZooViews.swift; sourceTree = "<group>"; };
 		81E2DE5E21658D01003959B8 /* ZooMap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZooMap.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		81E2DE6121658D01003959B8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		81E2DE6321658D01003959B8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				81E2DE6D21658D05003959B8 /* LaunchScreen.storyboard */,
 				81E2DE7021658D05003959B8 /* Info.plist */,
 				81E2DE6821658D01003959B8 /* ZooMap.xcdatamodeld */,
+				814F6CC8217294E200DC531D /* BigCat.swift */,
+				814F6CCA2172984800DC531D /* ZooViews.swift */,
 			);
 			path = ZooMap;
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 			files = (
 				81E2DE6A21658D01003959B8 /* ZooMap.xcdatamodeld in Sources */,
 				81E2DE6421658D01003959B8 /* ViewController.swift in Sources */,
+				814F6CCB2172984800DC531D /* ZooViews.swift in Sources */,
+				814F6CC9217294E200DC531D /* BigCat.swift in Sources */,
 				81E2DE6221658D01003959B8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
